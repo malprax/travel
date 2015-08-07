@@ -3,6 +3,9 @@ lock '3.4.0'
 server '128.199.162.102', roles: [:web, :app, :db], primary: true
 set :application, 'travel'
 set :repo_url, 'git@github.com:malprax/travel.git'
+set :user,  'root'
+set :puma_threads, [4, 16]
+set :puma_workers, 0
 
 # Don't change these unless you know what you're doing
 set :pty,             true
