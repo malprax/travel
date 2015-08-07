@@ -1,6 +1,6 @@
 # config valid only for current version of Capistrano
 lock '3.4.0'
-server '128.199.162.102', roles: [:web, :app, :db], primary: true
+server '128.199.162.102', port: 3000,roles: [:web, :app, :db], primary: true
 set :application, 'travel'
 set :repo_url, 'git@github.com:malprax/travel.git'
 set :user,  'root'
