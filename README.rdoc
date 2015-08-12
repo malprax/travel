@@ -159,3 +159,4 @@ server {
 
 
 coba coba mi deploy langsung
+belum blum jadi ini deploy nya maumi diapa sabar sabar saja
