@@ -178,3 +178,4 @@ hari ini ada beberapa tugas yang sudah selesai dan yang harus dikerjakan antara 
 3. buat interface lanjutan data billing parkir
 4. uji coba metode VPS baru
 5. jangan lupa mengaji
+6. jangan lupa untuk tidak begadang dulu dan bangun jam 3
