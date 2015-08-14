@@ -175,3 +175,4 @@ tidak lupa juga memberi kabar p ilo bahwa kita ketemuan dirumahnya p ramli
 hari ini ada beberapa tugas yang sudah selesai dan yang harus dikerjakan antara lain:
 1. buat RAB sistem parkir cerdas
 2. riset apa kegunaan gem pusher
+3. buat interface lanjutan data billing parkir
