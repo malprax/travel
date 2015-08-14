@@ -172,4 +172,5 @@ trus buat anggaran mengenai alat berikutnya mengenai parkir otomatis
 beri penjelasan juga tentang pembuatan program dari air mancur ini
 tidak lupa juga memberi kabar p ilo bahwa kita ketemuan dirumahnya p ramli
 
-hari ini ada beberapa tugas yang sudah selesai
+hari ini ada beberapa tugas yang sudah selesai dan yang harus dikerjakan antara lain:
+1. buat RAB sistem parkir cerdas
