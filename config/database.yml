@@ -2,17 +2,17 @@ defaults: &defaults
   adapter: postgresql
   encoding: unicode
   pool: 5
-  username: postgres
-  password: postgres
+  username: aulia
+  password: aulia
   host: localhost
   port: 5432
     
 development: 
-  database: yayasan_yakin_development
+  database: travel_development
   <<: *defaults 
 
 production:
-  database: yayasan_yakin_production
+  database: travel_production
   <<: *defaults
 #   username: ENV["database_username"]
 #   password: ENV["database_password"]
